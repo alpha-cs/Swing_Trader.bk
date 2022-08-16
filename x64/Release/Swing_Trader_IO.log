@@ -1,0 +1,31 @@
+﻿  dataharvest.cpp
+  Swing_Trader_IO.cpp
+     Creating library D:\_Programs\Swing_Trader_IO\x64\Release\Swing_Trader_IO.lib and object D:\_Programs\Swing_Trader_IO\x64\Release\Swing_Trader_IO.exp
+  Generating code
+  1 of 127 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_driver.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_connection.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_uri.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_uri.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_metadata.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_metadata.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_warning.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_warning.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_prepared_statement.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_prepared_statement.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_statement.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_statement.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_debug.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_debug.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_client_api.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_client_api.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_util.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_util.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_art_resultset.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_art_resultset.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultbind.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_resultbind.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_ps_resultset.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_ps_resultset.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_parameter_metadata.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_parameter_metadata.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultset.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_resultset.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: PDB 'jdbc.pdb' was not found with 'mysqlcppconn-static.lib(mysql_resultset_metadata.obj)' or at 'D:\_Programs\Swing_Trader_IO\x64\Release\jdbc.pdb'; linking object as if no debug info
+  Swing_Trader_IO.vcxproj -> D:\_Programs\Swing_Trader_IO\x64\Release\Swing_Trader_IO.exe
