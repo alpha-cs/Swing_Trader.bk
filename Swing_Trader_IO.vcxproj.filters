@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Swing_Trader_IO.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="dataharvest.cpp">
@@ -29,5 +29,13 @@
     <ClInclude Include="dataharvest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="db_const.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Downloads\Database_Rev1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
 </Project>

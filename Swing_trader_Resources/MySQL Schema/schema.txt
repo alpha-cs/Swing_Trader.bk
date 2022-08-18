@@ -1,0 +1,8 @@
+create table Company (
+	ID INT NOT NULL UNIQUE,
+	Name VARCHAR(100) NOT NULL UNIQUE,
+	Ticker VARCHAR(50) NOT NULL UNIQUE,
+	Exchange_ID INT,
+	MarketCap VARCHAR(25),
+	Flag BOOLEAN NOT NULL
+);

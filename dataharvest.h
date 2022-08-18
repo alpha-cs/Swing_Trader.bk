@@ -2,6 +2,9 @@
 #define DATAHARVEST_H
 
 #include <stdio.h>
+#include "db_const.h"
+#include "constants.h" // includes debug
+
 /*
   Include directly the different
   headers from cppconn/ and mysql_driver.h + mysql_util.h
@@ -13,10 +16,7 @@
 #include <cppconn/resultset.h>
 #include <cppconn/prepared_statement.h>
 
-#include "constants.h"
-
 void dataharvest();
 void query();
 
-
-#endif
+#endif // DATAHARVEST_H

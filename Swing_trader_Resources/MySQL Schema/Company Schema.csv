@@ -1,0 +1,51 @@
+ID,Name,Ticker,Exchange_ID,MarketCap,Flag
+1,"Daseke, Inc.",DSKEW,,n/a,true
+2,GasLog Partners LP,GLOP,,$855.22M,false
+3,"AG Mortgage Investment Trust, Inc.",MITT^B,,n/a,true
+4,"Baidu, Inc.",BIDU,,$60.38B,true
+5,"Summit Hotel Properties, Inc.",INN,,$1.97B,false
+6,"Electronics for Imaging, Inc.",EFII,,$2.3B,false
+7,"Korea Fund, Inc. (The)",KF,,$233.08M,false
+8,Seaspan Corporation,SSW^H,,n/a,false
+9,"Maui Land & Pineapple Company, Inc.",MLP,,$386.9M,false
+10,Hilton Grand Vacations Inc.,HGV,,$3.62B,false
+11,Triple-S Management Corporation,GTS,,$403.79M,false
+12,"GlassBridge Enterprises, Inc.",GLA,,$15.97M,true
+13,"Biostar Pharmaceuticals, Inc.",BSPM,,$3.49M,true
+14,"Codexis, Inc.",CDXS,,$231.22M,false
+15,Southern Company (The),SO,,$51.25B,false
+16,"Cal-Maine Foods, Inc.",CALM,,$1.81B,false
+17,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,SBS,,$6.55B,false
+18,"Blucora, Inc.",BCOR,,$909.02M,true
+19,PowerShares DWA Basic Materials Momentum Portfolio,PYZ,,$95.77M,false
+20,Taro Pharmaceutical Industries Ltd.,TARO,,$4.57B,true
+21,"Magna International, Inc.",MGA,,$16.53B,false
+22,Intuit Inc.,INTU,,$35.74B,true
+23,Proshares UltraPro Nasdaq Biotechnology,UBIO,,$35.1M,true
+24,"MACOM Technology Solutions Holdings, Inc.",MTSI,,$3.57B,true
+25,"Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.",MIE,,$282.94M,false
+26,"HomeTrust Bancshares, Inc.",HTBI,,$462.31M,false
+27,San Juan Basin Royalty Trust,SJT,,$324.86M,true
+28,Liberty Media Corporation,BATRK,,$1.49B,true
+29,Apollo Tactical Income Fund Inc.,AIF,,$236.63M,true
+30,"M/I Homes, Inc.",MHO,,$681.36M,true
+31,"Tortoise Energy Independence Fund, Inc.",NDP,,$197.71M,true
+32,J.M. Smucker Company (The),SJM,,$14.17B,true
+33,"MKS Instruments, Inc.",MKSI,,$3.96B,true
+34,"Nature's Sunshine Products, Inc.",NATR,,$249.94M,true
+35,FelCor Lodging Trust Incorporated,FCH,,$1.03B,true
+36,First South Bancorp Inc,FSBK,,$156.39M,true
+37,"PPG Industries, Inc.",PPG,,$28.48B,false
+38,"Neurotrope, Inc.",NTRP,,$59.88M,true
+39,On Track Innovations Ltd,OTIV,,$51.37M,false
+40,SEI Investments Company,SEIC,,$8.61B,true
+41,Parker-Hannifin Corporation,PH,,$21.66B,true
+42,"PNC Financial Services Group, Inc. (The)",PNC^Q,,n/a,false
+43,Foamix Pharmaceuticals Ltd.,FOMX,,$164.16M,true
+44,Brookfield Canada Office Properties,BOXC,,$649.98M,true
+45,Norwood Financial Corp.,NWFL,,$171.78M,false
+46,Valley National Bancorp,VLY.WS,,n/a,false
+47,Legg Mason US Diversified Core ETF,UDBI,,$3.08M,true
+48,Liberty Global plc,LILAK,,$3.47B,true
+49,PowerShares DWA Energy Momentum Portfolio,PXI,,$94.83M,true
+50,"Marten Transport, Ltd.",MRTN,,$905.46M,false

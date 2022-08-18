@@ -134,11 +134,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="dataharvest.cpp" />
-    <ClCompile Include="Swing_Trader_IO.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h" />
     <ClInclude Include="dataharvest.h" />
+    <ClInclude Include="db_const.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Downloads\Database_Rev1.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
